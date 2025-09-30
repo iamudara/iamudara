@@ -1,10 +1,3 @@
-#  About Me:
-Udara is a proactive developer and undergraduate student <br>who builds practical solutions with modern technology, using a solid front-end foundation <br>to continually explore what's next in full-stack development and AI.
-📫 How to reach me: [hello@iamudara.dev](mailto:hello@iamudara.dev)
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamudara) [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2?logo=rss&logoColor=white)](https://iamudara.dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@iamudara.dev)
-
 # 💻 My Tech Stack
 <table>
   <tr>
@@ -34,10 +27,6 @@ Udara is a proactive developer and undergraduate student <br>who builds practica
   </tr>
 </table>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamudara&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iamudara&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamudara&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iamudara&limit=5&theme=gotham&combine_all_yearly_contributions=true)
